@@ -16,8 +16,8 @@
         <pty4j.version>0.12.7</pty4j.version>
         <commons-lang3.version>3.9</commons-lang3.version>
         <jackson.version>2.13.3</jackson.version>
-        <java.version>17</java.version>
-        <javafx.version>18.0.1</javafx.version>
+        <java.version>11</java.version>
+        <javafx.version>19.0.2.1</javafx.version>
     </properties>
 
     <organization>
